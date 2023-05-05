@@ -1,0 +1,6 @@
+community
+matplotlib==3.6.2
+networkx
+numpy==1.23.5
+openpyxl
+pandas==1.5.2
